@@ -42,7 +42,7 @@ body {
   margin-left:50px;
 }
 
-.top.background-image:hover {
+.top:hover {
   position: 50;
 }
 
