@@ -43,7 +43,7 @@ body {
 }
 
 .top.background-image:hover {
-  background-color: #88a98c;
+  position: 50;
 }
 
 .cirbutton{
